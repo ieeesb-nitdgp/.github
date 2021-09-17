@@ -11,7 +11,8 @@ Comprising of bright researchers, developers, speakers, and other contributors w
 
 🧙 Remember, you can do mighty things with the power of opensource !
 
-<img src="sblogo (1).png" alt = "ieee"/>
+![IEEE SB NITDgp](https://github.com/ieeesb-nitdgp/.github/raw/main/profile/sblogo%20(1).png)
+
 
 <!--
 
