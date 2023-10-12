@@ -7,7 +7,7 @@ Comprising of bright researchers, developers, speakers, and other contributors w
 
 🌈 Contribution guidelines - Feel free to create an issue in any of our repos, or even better solve them by a pr. 
 
-👩‍💻 Useful resources - https://www.ieeesbnitdgp.com/
+👩‍💻 Useful resources - https://edu.ieee.org/in-nitdgp
 
 🧙 Remember, you can do mighty things with the power of opensource !
 
